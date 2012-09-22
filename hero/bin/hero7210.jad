@@ -1,0 +1,10 @@
+MIDlet-1: 水浒Q传, hero.png, Hero
+MIDlet-Description: NOKIA 7210 角色扮演游戏
+MIDlet-Jar-Size: 58163
+MIDlet-Jar-URL: hero7210.jar
+MIDlet-Name: 水浒Q传
+MIDlet-Version: 1.0
+MIDlet-Vendor: 光通通信
+Media-Price: 8RMB
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0

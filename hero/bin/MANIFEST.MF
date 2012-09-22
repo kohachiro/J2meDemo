@@ -1,0 +1,7 @@
+MIDlet-1: Hero, hero.png, Hero
+MIDlet-Description: NOKIA 7610 角色扮演类游戏
+MIDlet-Name: 水浒Q传
+MIDlet-Vendor: 光通通信
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0

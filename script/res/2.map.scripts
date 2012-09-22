@@ -1,0 +1,12 @@
+MENU:5:开始游戏,继续游戏,帮助,关于,退出
+SAY:1,aaaaaa
+CHANGEMAP:0,10,5,7,8
+XP=500
+AK=150
+DF=150
+WI=24
+HE=24
+XR=4
+RF=1
+SZ=4
+FRIGHT:0,0,0,EXIT
