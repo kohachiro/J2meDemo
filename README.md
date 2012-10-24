@@ -10,7 +10,7 @@ act:	An action game demo.
 color:	This project shows how to change the PNG color table to 
 	complete the picture of the discoloration.
 	
-hero:	The is a j2me Game.
+hero:	This is a j2me Game.
 
 iso:	An isometric game demo
 
